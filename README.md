@@ -12,7 +12,7 @@
 <!-- [![Hardik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hardik2611&show_icons=true&theme=dark)](https://github.com/Hardik2611/github-readme-stats)
 --->
 
-
+![snake gif](https://github.com/Hardik2611/Hardik2611/blob/output/github-contribution-grid-snake.gif)
 
 
 <!---
