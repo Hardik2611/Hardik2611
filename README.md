@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @Hardik2611
+<h3>Hi 👋, I'm Hardik</h3>
 - 👀 I’m interested in ...<br>
 - 🌱 I’m currently learning ...<br>
 - 💞️ I’m looking to collaborate on ...<br>
+- ⚡ Fun fact ...<br>
 - 📫 How to reach me 
-<a href="https://linkedin.com/in/hardik goyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hardik goyal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hardik goyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hardik goyal" height="30" width="40" /></a><br><br>
 
 
 
