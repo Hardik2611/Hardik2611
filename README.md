@@ -6,7 +6,7 @@
 - 📫 How to reach me 
 <a href="https://www.linkedin.com/in/hardik-goyal-2611nov02/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hardik goyal" height="30" width="40" /></a><br><br>
 
-<a href="https://app.daily.dev/hardikgoyal"><img align="right" src="https://github.com/Hardik2611/Hardik2611/blob/devcard.svg" width="400" alt="Hardik Goyal's Dev Card"/></a>
+<a href="https://app.daily.dev/hardikgoyal"><img align="right" src="https://github.com/Hardik2611/Hardik2611/blob/main/devcard.svg" width="400" alt="Hardik Goyal's Dev Card"/></a>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Hardik2611&show_icons=true&theme=dark">
 <!-- [![Hardik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hardik2611&show_icons=true&theme=dark)](https://github.com/Hardik2611/github-readme-stats)
