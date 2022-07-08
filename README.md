@@ -4,9 +4,9 @@
 - 💞️ I’m looking to collaborate on ...<br>
 - ⚡ Fun fact ...<br>
 - 📫 How to reach me 
-<a href="https://linkedin.com/in/hardik goyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hardik goyal" height="30" width="40" /></a><br><br>
+<a href="https://www.linkedin.com/in/hardik-goyal-2611nov02/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hardik goyal" height="30" width="40" /></a><br><br>
 
-<a href="https://app.daily.dev/hardikgoyal"><img src="https://github.com/Hardik2611/Hardik2611/blob/master/devcard.svg" width="400" alt="Hardik Goyal's Dev Card"/></a>
+<a href="https://app.daily.dev/hardikgoyal"><img src="https://github.com/Hardik2611/Hardik2611/master/devcard.svg" width="400" alt="Hardik Goyal's Dev Card"/></a>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Hardik2611&show_icons=true&theme=dark">
 <!-- [![Hardik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hardik2611&show_icons=true&theme=dark)](https://github.com/Hardik2611/github-readme-stats)
